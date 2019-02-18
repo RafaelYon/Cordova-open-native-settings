@@ -1,0 +1,35 @@
+{
+  "name": "Native settings",
+  "version": "1.2.1",
+  "description": "Cordova / Phonegap plugin for communicating with HTTP servers using SSL pinning",
+  "cordova": {
+    "id": "com.phonegap.plugins.nativesettingsopener",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelYon/Cordova-open-native-settings.git"
+  },
+  "keywords": [
+    "cordova",
+    "device",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "selahssea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/selahssea/Cordova-open-native-settings/pulls"
+  },
+  "homepage": "https://github.com/selahssea/Cordova-open-native-settings"
+}
