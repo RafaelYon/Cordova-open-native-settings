@@ -1,5 +1,5 @@
 {
-  "name": "cordova.plugins.settings",
+  "name": "com.phonegap.plugins.nativesettingsopener",
   "version": "1.2.1",
   "description": "Native settings opener for Cordova 3.0",
   "cordova": {
