@@ -1,7 +1,7 @@
 {
-  "name": "Native settings",
+  "name": "cordova.plugins.settings",
   "version": "1.2.1",
-  "description": "Cordova / Phonegap plugin for communicating with HTTP servers using SSL pinning",
+  "description": "Native settings opener for Cordova 3.0",
   "cordova": {
     "id": "com.phonegap.plugins.nativesettingsopener",
     "platforms": [
